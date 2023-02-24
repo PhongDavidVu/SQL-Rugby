@@ -1,1 +1,1 @@
-# SQL-Rugby
+INFO in the PDF file
